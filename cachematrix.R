@@ -1,3 +1,5 @@
+## R Programming - Programming Assignment 2
+
 ## makeCacheMatrix function creates a "matrix object" that can store matrix and cache its inverse
 
 makeCacheMatrix <- function(origMtx = matrix()) {
